@@ -21,7 +21,7 @@ Follow me:  [Twitter](http://www.twitter.com/Mahendra_Dew)
 ## License
 [MIT](LICENSE)
 
-Made with :blue_heart:  by bytecodecomm
+Made with :blue_heart: by bytecodecomm
 
 
 
